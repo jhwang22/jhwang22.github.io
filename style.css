@@ -8,6 +8,11 @@ a:hover {
   background-color: yellow;
 }
 
+#aboutme {
+  text-align: center;
+  text-shadow: 2 px 2 px 4 px darkblue;
+}
+
 /* .joanna {    
     border-collapse: collapse;
   } */
