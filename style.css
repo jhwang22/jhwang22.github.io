@@ -3,12 +3,18 @@
   color:rgb(68, 182, 68)
 }
 
+.fancy {
+  font-weight: bold;
+  text-shadow: 4px 4px 3px #77f;
+}
+
+
 /* .joanna {    
     border-collapse: collapse;
   } */
 table, td, th {
-    border: 1px solid black;
-}
+    border: 1px solid black; 
+    }
 
 table {
 width: 100%;
