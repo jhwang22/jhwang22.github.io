@@ -1,5 +1,6 @@
 h1 {
   color: green;
+  text-align: center;
 }
 
 a:hover {
@@ -9,7 +10,8 @@ a:hover {
 /* .joanna {    
     border-collapse: collapse;
   } */
-table, td, th {
+
+  table, td, th {
     border: 1px solid black; 
     }
 
