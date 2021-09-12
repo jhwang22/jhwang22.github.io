@@ -7,6 +7,12 @@ a.one:hover {
   background-color: yellow;
 }
 
+#welcome {
+  text-align:center;
+  font-weight: bold;
+  color:darkgoldenrod
+}
+
 #aboutme {
   text-align: center;
   text-shadow: 2 px 2 px 4 px darkblue;
