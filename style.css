@@ -3,8 +3,7 @@ h1 {
   text-align: center;
 }
 
-Fix later
-a:hover {
+a.one:hover {
   background-color: yellow;
 }
 
