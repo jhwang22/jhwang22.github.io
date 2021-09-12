@@ -41,6 +41,10 @@ span.inform {
   color:darkviolet; 
 }
 
+span.highlight{
+  background-color: yellowgreen;
+}
+
 /* .joanna {    
     border-collapse: collapse;
   } */
