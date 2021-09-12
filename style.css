@@ -45,6 +45,12 @@ span.highlight{
   background-color: yellowgreen;
 }
 
+span.spicy {
+  text-align: center;
+  text-shadow:crimson;
+  
+}
+
 /* .joanna {    
     border-collapse: collapse;
   } */
