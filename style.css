@@ -48,11 +48,12 @@ span.highlight{
   background-color: yellowgreen;
 }
 
-span.spicy {
-  text-align: center;
-  text-shadow:crimson;
-  
-}
+.largefont {
+  color: #fd940ad8;
+  font-family:arial;
+  font-size: 6px;
+} 
+
 
 /* .joanna {    
     border-collapse: collapse;
