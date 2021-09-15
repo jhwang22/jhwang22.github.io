@@ -96,3 +96,15 @@ border-collapse: collapse;
   background-color: lightblue;    
   text-align: center;
 }
+
+.invisible {
+  color:#ddd
+}
+
+.inivisble1 {
+  color:bisque
+}
+
+.invisible2 {
+  color:cornflowerblue
+}
