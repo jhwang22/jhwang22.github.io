@@ -79,8 +79,20 @@ border-collapse: collapse;
     background-color: rgb(234, 240, 241);
   }
 
-.myDiv {
+.heehee {
     border: 5px outset red;
     background-color: lightblue;    
     text-align: center;
+}
+
+.haha {
+  border: 8px outset rgb(46, 119, 192);
+  background-color: lightblue;    
+  text-align: center;
+}
+
+.lol {
+  border: 4px outset rgb(62, 206, 5);
+  background-color: lightblue;    
+  text-align: center;
 }
