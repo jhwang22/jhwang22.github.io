@@ -78,4 +78,9 @@ border-collapse: collapse;
   body {
     background-color: rgb(234, 240, 241);
   }
+
+.myDiv {
+    border: 5px outset red;
+    background-color: lightblue;    
+    text-align: center;
 }
