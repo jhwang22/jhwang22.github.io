@@ -44,7 +44,7 @@ span.inform {
   color:darkviolet; 
 }
 
-span.highlight{
+span.highlight {
   background-color: yellowgreen;
 }
 
@@ -78,6 +78,7 @@ border-collapse: collapse;
   body {
     background-color: rgb(234, 240, 241);
   }
+  }
 
 .heehee {
     border: 5px outset red;
@@ -106,5 +107,5 @@ border-collapse: collapse;
 }
 
 .invisible2 {
-  color:cornflowerblue
-}
+  color:cornflowerblue 
+} 
